@@ -1,15 +1,15 @@
 {
   "accountAssociation": {
     "header": "eyJmaWQiOjMwNDI0MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGI2QzlmMDhDOTZEMDIzODNDNTA2MWYzN0E0ZkFFNjBkQ2Q1MGE5NmQifQ",
-    "payload": "eyJkb21haW4iOiJkb251dC1taW5lci1taW5pYXBwLXRoZXRhLnZlcmNlbC5hcHAifQ",
+    "payload": "eyJkb21haW4iOiJqaXR0LW1pbmVyLW1pbmlhcHAtdGhldGEudmVyY2VsLmFwcCJ9",
     "signature": "/za8wfQtLMx1iWnW70oRhhwvfMn9bb4xEs9cXdw6rpZe2ENyBsZ0+CHj2sgIymq8osGSDG6i7DyNGqhYatREEBw="
   },
   "miniapp": {
     "version": "1",
     "name": "jitt-glazery",
-    "iconUrl": "https://donut-miner-miniapp-theta.vercel.app/media/hero.png",
-    "homeUrl": "https://donut-miner-miniapp-theta.vercel.app",
-    "splashImageUrl": "https://donut-miner-miniapp-theta.vercel.app/media/splash.png",
+    "iconUrl": "https://jitt-miner-miniapp-theta.vercel.app/media/hero.png",
+    "homeUrl": "https://jitt-miner-miniapp-theta.vercel.app",
+    "splashImageUrl": "https://jitt-miner-miniapp-theta.vercel.app/media/splash.png",
     "splashBackgroundColor": "#FEE7EC",
     "subtitle": "Claim the glaze factory and earn donuts",
     "description": "Race to control the donut mine and keep the glaze flowing on Base.",
